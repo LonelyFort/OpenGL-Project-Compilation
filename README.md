@@ -11,8 +11,6 @@ This is a showcase repository for all the projects I have done for CS3241 Comput
 
 [Link to Repository](https://github.com/LonelyFort/OpenGL-3DAnimation)
 
-[Link to Repository](https://github.com/LonelyFort/OpenGL-2DAnimation)
-
 ## Project 3: Texture Mapping
 ![texture mapping](https://github.com/LonelyFort/OpenGL-Project-Compilation/blob/main/Texture%20Mapping%20image.png)
 
