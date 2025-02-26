@@ -9,7 +9,7 @@ This is a showcase repository for all the projects I have done for CS3241 Comput
 ## Project 2: 3D Animation
 ![3D animation](https://github.com/LonelyFort/OpenGL-Project-Compilation/blob/main/3D%20Animation.gif)
 
-[Link to Repository]([https://github.com/LonelyFort/OpenGL-2DAnimation](https://github.com/LonelyFort/OpenGL-3DAnimation)
+[Link to Repository](https://github.com/LonelyFort/OpenGL-3DAnimation)
 
 [Link to Repository](https://github.com/LonelyFort/OpenGL-2DAnimation)
 
